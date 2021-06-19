@@ -21,3 +21,12 @@ User submissions are need to be stored in a efficient manner so it can handle la
 <p align="center">
   <img src="public/biofourmis_design_db_schema_v3.jpg" alt="Architecture Diagram" />
 </p>
+
+### Problem 2:
+Result are need to be published for all the exams conducted.
+* Rank need to be computed.
+* Percentile need to be calculated for each student in the test.
+* Subject wise Percentile need to be calculated for each student in the test.
+
+#### Prototype:
+[Jupyter Notebook](prototype/results.ipynb)
