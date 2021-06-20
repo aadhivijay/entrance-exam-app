@@ -14,12 +14,12 @@ User submissions are need to be stored in a efficient manner so it can handle la
 
 #### High level system design:
 <p align="center">
-  <img src="public/biofourmis_design_v2.jpg" alt="Architecture Diagram" />
+  <img src="public/biofourmis_design_v3.jpg" alt="Architecture Diagram" />
 </p>
 
 #### Database Schema:
 <p align="center">
-  <img src="public/biofourmis_design_db_schema_v3.jpg" alt="Architecture Diagram" />
+  <img src="public/biofourmis_design_db_schema_v4.jpg" alt="Architecture Diagram" />
 </p>
 
 ### Problem 2:
