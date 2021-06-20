@@ -28,5 +28,21 @@ Result are need to be published for all the exams conducted.
 * Percentile need to be calculated for each student in the test.
 * Subject wise Percentile need to be calculated for each student in the test.
 
+#### Flow:
+##### Calculating Test score:
+<p align="center">
+  <img src="public/biofourmis_design-submit-flow.jpg" alt="Architecture Diagram" />
+</p>
+
+##### Calculating Test Rank and Percentile:
+<p align="center">
+  <img src="public/biofourmis_design-rank-pct-flow.jpg" alt="Architecture Diagram" />
+</p>
+
+##### Calculating Subject-wise Test Rank and Percentile:
+<p align="center">
+  <img src="public/biofourmis_design-sub-rank-pct-flow.jpg" alt="Architecture Diagram" />
+</p>
+
 #### Prototype:
 [Jupyter Notebook](prototype/results.ipynb)
